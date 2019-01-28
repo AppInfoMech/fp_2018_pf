@@ -1,0 +1,7 @@
+Trabalho por João Dias (21803573) e João Cerqueira (21802495)
+
+Jogo controlado com setas ou WASD
+
+Música e efeitos sonoros retirados de freesound.org
+
+Outros assets criados de raíz
